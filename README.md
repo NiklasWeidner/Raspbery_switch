@@ -6,6 +6,6 @@ EDITING RC.LOCAL
 
 nano /etc/rc.local
 
-add
+add:
 
 python /Raspbery_switch/shutdown.py &
